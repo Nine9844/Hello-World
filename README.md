@@ -1,2 +1,3 @@
 # Hello-World
-the frist time to use GitHub,it is the new try
+the frist time to use GitHub,it is new try
+printf("Hello World")
